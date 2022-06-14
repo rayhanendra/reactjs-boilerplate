@@ -1,1 +1,2 @@
-# kelompok-1-frontend
+# React Js Boilerplate
+Includes Eslint + Prettier + Husky
